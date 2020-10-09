@@ -20,6 +20,7 @@ dotnet tool install -g Amazon.Lambda.Tools
 - AWS account (free tier for 12 month). You can sign up here [https://aws.amazon.com]
 - .NET Core 3.1 [https://dotnet.microsoft.com/download/dotnet-core/3.1]
 - .NET CLI [https://dotnet.microsoft.com/download]
+- Create Basic Execution Role in AWS IAM.
 
 
 

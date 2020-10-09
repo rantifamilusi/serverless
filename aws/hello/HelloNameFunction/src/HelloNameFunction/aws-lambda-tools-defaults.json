@@ -12,5 +12,6 @@
   "function-runtime": "dotnetcore3.1",
   "function-memory-size": 256,
   "function-timeout": 30,
-  "function-handler": "HelloNameFunction::HelloNameFunction.Function::FunctionHandler"
+  "function-handler": "HelloNameFunction::HelloNameFunction.Function::FunctionHandler",
+  "function-role": "myBasicExecutionRole" 
 }
